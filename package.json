@@ -7,6 +7,10 @@
     "start": "node 06.03.00.mvc01.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository":{
+    "type": "git",
+    "url": "private"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
