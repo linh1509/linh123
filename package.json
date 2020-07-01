@@ -4,7 +4,7 @@
   "description": "",
   "main": "06.03.00.mvc01.js",
   "scripts": {
-    "start": "node 06.03.00.mvc01.js",
+    "start": "node 06.03.00.mvc01",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
